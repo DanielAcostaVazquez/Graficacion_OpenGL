@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1604614804 source:d:\itesm\graficas comp\presentaciones\opengl\11 motor grafico opengl manejo op geometricas y matriz de edo\ejemplo_fpv_new\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1676588249 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1676588249 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1666483692 source:l:\itesm\sistemas multiagente y graficas computacionales\multiagentes - graficas\codigos\ejemplo_fpv_new\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1668113476 source:d:\itesm\multiagentes - graficas\codigos\ejemplo7_fpv_2d\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1683506450 source:c:\users\danie\downloads\ejemplo14_fpv_2d\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"wall.h"
+	"ghost.h"
+	"ghostR.h"
+
+1683158245 source:c:\users\danie\downloads\ejemplo14_fpv_2d\wall.cpp
+	"wall.h"
+
+1683158200 c:\users\danie\downloads\ejemplo14_fpv_2d\wall.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1683493637 source:c:\users\danie\downloads\ejemplo14_fpv_2d\ghost.cpp
+	"ghost.h"
+
+1683446857 c:\users\danie\downloads\ejemplo14_fpv_2d\ghost.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+
+1683421691 source:c:\users\danie\downloads\ejemplo14_fpv_2d\ghostr.cpp
+	"ghostR.h"
+
+1683421639 c:\users\danie\downloads\ejemplo14_fpv_2d\ghostr.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+
