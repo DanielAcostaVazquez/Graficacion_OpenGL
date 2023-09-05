@@ -1,0 +1,425 @@
+# depslib dependency file v1.0
+1605220640 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1426371328 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426371328 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1604963167 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1604959429 d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1604966767 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1604963029 d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1605226130 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1667480177 source:d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\texturas_new2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1604959429 d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\texturas_new2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1604963167 source:d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\texturas_new2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1677518849 source:d:\itesm\desarrollo de videojuegos\presentaciones\2023\proyectos\tema3 deteccioncolisiones texturas\ejemplo8_texturastexturas_new2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1604959429 d:\itesm\desarrollo de videojuegos\presentaciones\2023\proyectos\tema3 deteccioncolisiones texturas\ejemplo8_texturastexturas_new2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1604963167 source:d:\itesm\desarrollo de videojuegos\presentaciones\2023\proyectos\tema3 deteccioncolisiones texturas\ejemplo8_texturastexturas_new2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1677622868 source:c:\users\danie\downloads\ejemplo8_texturastexturas_new2\ejemplo8_texturastexturas_new2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1604959429 c:\users\danie\downloads\ejemplo8_texturastexturas_new2\ejemplo8_texturastexturas_new2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1604963167 source:c:\users\danie\downloads\ejemplo8_texturastexturas_new2\ejemplo8_texturastexturas_new2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1678310850 source:c:\users\danie\downloads\ejemplo8_texturastexturas_new2 - copy\ejemplo8_texturastexturas_new2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	"pacman.h"
+
+1604959429 c:\users\danie\downloads\ejemplo8_texturastexturas_new2 - copy\ejemplo8_texturastexturas_new2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1604963167 source:c:\users\danie\downloads\ejemplo8_texturastexturas_new2 - copy\ejemplo8_texturastexturas_new2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1678235660 source:c:\users\danie\downloads\ejemplo8_texturastexturas_new2 - copy\ejemplo8_texturastexturas_new2\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1678311047 c:\users\danie\downloads\ejemplo8_texturastexturas_new2 - copy\ejemplo8_texturastexturas_new2\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1678315774 source:c:\users\danie\downloads\proyecto_pacman1.1\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	"pacman.h"
+
+1604959429 c:\users\danie\downloads\proyecto_pacman1.1\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1678316838 c:\users\danie\downloads\proyecto_pacman1.1\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1678316870 source:c:\users\danie\downloads\proyecto_pacman1.1\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1604963167 source:c:\users\danie\downloads\proyecto_pacman1.1\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1678420146 source:c:\users\rauld\downloads\proyecto_pacman1.2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	"pacman.h"
+	<iostream>
+
+1604959430 c:\users\rauld\downloads\proyecto_pacman1.2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1678420323 c:\users\rauld\downloads\proyecto_pacman1.2\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1678316872 source:c:\users\rauld\downloads\proyecto_pacman1.2\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1604963168 source:c:\users\rauld\downloads\proyecto_pacman1.2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1678839507 source:c:\users\danie\downloads\proyecto_pacman1.3\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1678838652 c:\users\danie\downloads\proyecto_pacman1.3\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1678834503 c:\users\danie\downloads\proyecto_pacman1.3\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1678834503 source:c:\users\danie\downloads\proyecto_pacman1.3\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1678839691 source:c:\users\danie\downloads\proyecto_pacman1.3\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	"pacman.h"
+	<iostream>
+
+1678839507 source:c:\users\danie\downloads\proyecto_pacman1.5\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1678838652 c:\users\danie\downloads\proyecto_pacman1.5\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1678834503 c:\users\danie\downloads\proyecto_pacman1.5\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1678834503 source:c:\users\danie\downloads\proyecto_pacman1.5\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1678848782 source:c:\users\danie\downloads\proyecto_pacman1.6\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	"pacman.h"
+	<iostream>
+
+1678834503 c:\users\danie\downloads\proyecto_pacman1.6\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1678851420 c:\users\danie\downloads\proyecto_pacman1.6\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1678852402 source:c:\users\danie\downloads\proyecto_pacman1.6\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1678834503 source:c:\users\danie\downloads\proyecto_pacman1.6\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1679025418 source:c:\users\danie\downloads\proyecto_pacman1.7\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	"pacman.h"
+	"ghost.h"
+	<iostream>
+
+1678834503 c:\users\danie\downloads\proyecto_pacman1.7\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1679006351 c:\users\danie\downloads\proyecto_pacman1.7\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1678855857 source:c:\users\danie\downloads\proyecto_pacman1.7\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1678834503 source:c:\users\danie\downloads\proyecto_pacman1.7\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1679025727 source:c:\users\danie\downloads\proyecto_pacman1.7\ghost.cpp
+	"ghost.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1679006382 c:\users\danie\downloads\proyecto_pacman1.7\ghost.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1679260861 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.8\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	"pacman.h"
+	"ghost.h"
+	<math.h>
+	<iostream>
+
+1678834504 d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.8\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1679260891 d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.8\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1679260741 d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.8\ghost.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1679208269 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.8\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1678834504 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.8\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1679260756 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.8\ghost.cpp
+	"ghost.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1679272479 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.9\ghost.cpp
+	"ghost.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1679272502 d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.9\ghost.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1678834504 d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.9\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1679272431 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.9\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	"pacman.h"
+	"ghost.h"
+	<math.h>
+	<iostream>
+
+1679261059 d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.9\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1679208269 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.9\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1678834504 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman1.9\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1679272431 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman2.0\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	"pacman.h"
+	"ghost.h"
+	<math.h>
+	<iostream>
+
+1678834504 d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman2.0\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1679261059 d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman2.0\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1679273434 d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman2.0\ghost.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1679208269 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman2.0\pacman.cpp
+	"pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1678834504 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman2.0\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1679273411 source:d:\1.-clases\1.- construcción de software y toma de decisiones\m4.-videojuegos\reto1\proyecto_pacman2.0\ghost.cpp
+	"ghost.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
